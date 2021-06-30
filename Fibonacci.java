@@ -1,10 +1,10 @@
-package org.fibonacci.num; // create package org.fibonacci.num to import him in Main.java, Создайте библиотеку org.fibonacci.num чтобы импортировать её в Main.java
+package org.fibonacci.num;
 
 public class Fibonacci {
 
     public static void main(String[] args) {
-        FibonacciNumbers(/*number*/);
-        FibonacciNumbersEffectiveMethod(/*number*/);
+        FibonacciNumbers(/*Goes here number or delete call function Вставте число или удалите это возванию функцию*/);
+        FibonacciNumbersEffectiveMethod(/*Goes here number or delete call function Вставте число или удалите это возванию функцию*/);
     }
 
     public static long FibonacciNumbers(int n) {
