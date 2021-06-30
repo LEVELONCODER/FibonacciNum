@@ -1,4 +1,4 @@
-package org.fibonacci.num;
+package org.fibonacci.num; // create package org.fibonacci.num to import him in Main.java, Создайте библиотеку org.fibonacci.num чтобы импортировать её в Main.java
 
 public class Fibonacci {
 
