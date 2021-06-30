@@ -1,4 +1,4 @@
-import org.fibonacci.num.Fibonacci;
+import org.fibonacci.num.Fibonacci; // If error with package create it, Если промблема с библиотекой, создайте её
 
 public class Main {
 
