@@ -3,8 +3,8 @@ package org.fibonacci.num;
 public class Fibonacci {
 
     public static void main(String[] args) {
-        FibonacciNumbers(/*Goes here number or delete call function Вставте число или удалите это возванию функцию*/);
-        FibonacciNumbersEffectiveMethod(/*Goes here number or delete call function Вставте число или удалите это возванию функцию*/);
+        FibonacciNumbers(/*number*/);
+        FibonacciNumbersEffectiveMethod(/*number*/);
     }
 
     public static long FibonacciNumbers(int n) {
